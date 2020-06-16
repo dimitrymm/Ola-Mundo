@@ -3,7 +3,21 @@ body{
     font-family: 'Source Code Pro', monospace;
 
 }
-   
+
+.div1{
+    text-align: left;
+    text-shadow: darkblue;
+    background-color: darkmagenta;
+    box-shadow: black;
+    border: black;
+    border-radius: 10px;
+    position: relative
+
+}
+
+.div2{
+    text-align: right;
+}
 
 .hover_underline{
 
